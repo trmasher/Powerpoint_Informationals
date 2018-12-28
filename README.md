@@ -1,2 +1,6 @@
 # Powerpoint_Informationals
-Contains .pptx files detailing information in a presentational format
+Contains presentations detailing information in an explanatory manner.
+
+## Contents:
++ Using R Notebook and Version Control
++ Bayesian Probability
